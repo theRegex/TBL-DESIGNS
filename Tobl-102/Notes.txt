@@ -1,0 +1,6 @@
+//Create Pages
+//Set posts to show on blog page through general settings > reading
+
+Posts Tutorial :
+
+https://www.youtube.com/watch?v=pJ4NTBdvyj4&ebc=ANyPxKq2WRXbWIfYqBC228vPOEW73Q_g3goWxgpqfORVs2SyDlkWqnSh8jf8VbHs8K0g28pl8vufdo7sn2-VTDZsY55EZaBZ0w&nohtml5=False
